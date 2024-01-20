@@ -1,0 +1,1 @@
+This is a string written into a text file..This is another line in the hex dump.A hexdump.has three important regions.
